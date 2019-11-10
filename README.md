@@ -1,4 +1,5 @@
 # YOLOV2-object-recognition
+The original work has been done by https://github.com/AlexeyAB. This is just a list of steps to perform the task easily.
 Follow these steps to run yolo2 object detector.<br>
 Full documentation can be found <a href = 'https://medium.com/@manivannan_data/how-to-train-yolov2-to-detect-custom-objects-9010df784f36'>here</a>.<br>
 
